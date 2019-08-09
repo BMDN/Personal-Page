@@ -28,11 +28,11 @@ interests:
 
 education:
   courses:
-  - course: PhD student
+  - course: Ph.D student
     institution: Tsinghua University
     year: 2018-present
 
-  - course: BEng
+  - course: B.Eng
     institution: Huazhong University of Science anf Technology
     year: 2014-2018
 
@@ -69,4 +69,5 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D student at the  Department of Computer Science and Technology, Tsinghua University. 
+I am a second-year Ph.D student at the  [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/publish/csen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018/index.html). 
+
