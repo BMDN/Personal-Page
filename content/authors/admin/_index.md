@@ -32,8 +32,8 @@ education:
     institution: Tsinghua University
     year: 2018-present
 
-  - course: B.Eng
-    institution: Huazhong University of Science anf Technology
+  - course: B.Eng (Honor Track)
+    institution: Huazhong University of Science and Technology
     year: 2014-2018
 
 # Social/Academic Networking

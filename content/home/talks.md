@@ -67,8 +67,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 
-+++
-
-[[talks]]
-
-titile = 'test'
