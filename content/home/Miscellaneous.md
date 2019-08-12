@@ -9,3 +9,4 @@ title = "Miscellaneous"
 
 +++
 
+- Some pics
