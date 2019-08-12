@@ -9,6 +9,6 @@ featured: false
 publication: "*Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics* ***(ACL 2019)***, *Florence, Italy* ***(oral)***"
 url_pdf: "https://www.aclweb.org/anthology/P19-1430"
 url_code: "https://github.com/thunlp/Chinese_NRE"
-url_bib: "https://www.aclweb.org/anthology/papers/P/P19/P19-1430.bib"
+url_cite: "https://www.aclweb.org/anthology/papers/P/P19/P19-1430.bib"
 ---
 
