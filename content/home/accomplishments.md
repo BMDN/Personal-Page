@@ -1,3 +1,10 @@
+widget = "accomplishments"
+headless = true  # This file represents a page section.
+
+active = true
+
+title = "Honors"
+
 [[item]]
   organization = "edX"
   organization_url = "https://www.edx.org"
