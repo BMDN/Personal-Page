@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "National Scholarship (top 1.5%)"
   url = ""
   certificate_url = ""
-  date_start = "2017-10"
+  date_start = "Oct 2017"
   date_end = ""
   description = ""
 
