@@ -6,6 +6,7 @@ authors: ["**Ning Ding***", "Ziran Li*", "Zhiyuan Liu", "Haitao Zheng"]
 publication_types: ["1"]
 abstract: ""
 featured: false
+publication_short: "EMNLP 2019"
 publication: "*The Conference on Empirical Methods in Natural Language Processing* **(EMNLP 2019)**"
 ---
 
