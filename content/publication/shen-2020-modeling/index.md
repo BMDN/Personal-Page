@@ -6,6 +6,7 @@ authors: ["Ying Shen", "Ning Ding", "Hai-Tao Zheng", "Yaliang Li", "Min Yang"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*IEEE Transactions on Knowledge and Data Engineering*"
+publication: "*IEEE Transactions on Knowledge and Data Engineering* **(TKDE)**"
+pdf_url: "https://ieeexplore.ieee.org/abstract/document/8974254/"
 ---
 
