@@ -1,13 +1,17 @@
 ---
 title: "Modeling Relation Paths for Knowledge Graph Completion"
-date: 2020-05-01
-publishDate: 2019-08-09T07:45:18.787582Z
-authors: ["Ying Shen*", "**Ning Ding***", "Hai-Tao Zheng", "Yaliang Li", "Min Yang"]
+date: 2020-04-01
+publishDate: 2020-04–01T14:52:57.848900Z
+authors: ["Ying Shen", "**Ning Ding**", "Hai-Tao Zheng", "Yaling Li", "Min Yang"]
 publication_types: ["1"]
+abstract: ""
 featured: false
-publication: "*IEEE Transactions on Knowledge and Data Engineering* **(TKDE)**, "
-url_pdf: "https://www.aclweb.org/anthology/P19-1430"
-url_cite: "https://www.aclweb.org/anthology/papers/P/P19/P19-1430.bib"
+publication: "*IEEE Transactions on Knowledge and Data Engineering* **(TKDE)**"
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/8974254/"
+url_cite: "https://scholar.googleusercontent.com/scholar.bib?q=info:DIlrFVu7gj4J:scholar.google.com/&output=citation&scisdr=CgX2k8p0EImZ2JU77Cw:AAGBfm0AAAAAXmc-9CyxT-WlXxXUHh-errvKiJthPHon&scisig=AAGBfm0AAAAAXmc-9JKlWzuFE6eX63aXgdu3BBfCZrk_&scisf=4&ct=citation&cd=-1&hl=zh-CN"
+
+
+
 
 
 

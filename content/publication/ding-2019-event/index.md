@@ -7,5 +7,14 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*The Conference on Empirical Methods in Natural Language Processing* **(EMNLP 2019)**"
+url_pdf: "https://www.aclweb.org/anthology/D19-1033.pdf"
+url_code: "https://github.com/thunlp/TLNN"
+url_cite: "https://www.aclweb.org/anthology/D19-1033.bib"
+
+
+
+
+
+
 ---
 
