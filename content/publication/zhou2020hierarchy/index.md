@@ -1,15 +1,12 @@
 ---
-title: "Event Detection with Trigger-Aware Lattice Neural Network"
-date: 2019-10-01
-publishDate: 2019-08-13T14:52:57.848900Z
-authors: ["**Ning Ding***", "Ziran Li*", "Zhiyuan Liu", "Haitao Zheng"]
+title: "Hierarchy-Aware Global Model for Hierarchical Text Classification"
+date: 2020-04-01
+publishDate: 2020-07-10T14:52:57.848900Z
+authors: ["Jie Zhou", "Chunping Ma*", "Dingkun Long, "Guangwei Xu", "Ning Ding", "Haoyu Zhang", "Pengjun Xie", "Gongshen Liu"]
 publication_types: ["1"]
-abstract: ""
 featured: false
-publication: "*The Conference on Empirical Methods in Natural Language Processing* **(EMNLP 2019)**"
-url_pdf: "https://www.aclweb.org/anthology/D19-1033.pdf"
-url_code: "https://github.com/thunlp/TLNN"
-url_cite: "https://www.aclweb.org/anthology/D19-1033.bib"
+publication: "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics* **(ACL 2020)**, *Seattle, USA*"
+
 
 
 
