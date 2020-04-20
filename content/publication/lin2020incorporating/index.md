@@ -1,15 +1,11 @@
 ---
-title: "Event Detection with Trigger-Aware Lattice Neural Network"
-date: 2019-10-01
-publishDate: 2019-08-13T14:52:57.848900Z
-authors: ["**Ning Ding***", "Ziran Li*", "Zhiyuan Liu", "Haitao Zheng"]
+title: "Integrating Linguistic Knowledge to Sentence Paraphrase Generation"
+date: 2019-12-01
+publishDate: 2020-02-01T14:52:57.848900Z
+authors: ["Zibo Lin", "Ziran Li", "**Ning Ding**", "Haitao Zheng","Ying Shen", "Wei Wang", "Cong-Zhi Zhao"]
 publication_types: ["1"]
-abstract: ""
 featured: false
-publication: "*The Conference on Empirical Methods in Natural Language Processing* **(EMNLP 2019)**"
-url_pdf: "https://www.aclweb.org/anthology/D19-1033.pdf"
-url_code: "https://github.com/thunlp/TLNN"
-url_cite: "https://www.aclweb.org/anthology/D19-1033.bib"
+publication: "**Thirty-Fourth AAAI Conference on Artificial Intelligence **(AAAI 2020)**"
 
 
 
