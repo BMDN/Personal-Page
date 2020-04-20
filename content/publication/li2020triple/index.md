@@ -1,15 +1,12 @@
 ---
-title: "Event Detection with Trigger-Aware Lattice Neural Network"
-date: 2019-10-01
-publishDate: 2019-08-13T14:52:57.848900Z
-authors: ["**Ning Ding***", "Ziran Li*", "Zhiyuan Liu", "Haitao Zheng"]
+title: "Triple-to-Text Generation with a Anchor-to-Prototype Framework"
+date: 2020-04-21
+publishDate: 2019-05-01T14:52:57.848900Z
+authors: ["Ziran Li", "Zobo Lin", "**Ning Ding**", "Ying Shen", "Haitao Zheng"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*The Conference on Empirical Methods in Natural Language Processing* **(EMNLP 2019)**"
-url_pdf: "https://www.aclweb.org/anthology/D19-1033.pdf"
-url_code: "https://github.com/thunlp/TLNN"
-url_cite: "https://www.aclweb.org/anthology/D19-1033.bib"
+publication: "*The 29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence* **(IJCAI 2020)**"
 
 
 
