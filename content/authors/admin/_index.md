@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D student of DL/NLP/ML
+role: Ph.D student of CS
 
 # Organizations/Affiliations
 organizations:
@@ -23,7 +23,6 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Natural Language Processing
 - Informatin Extraction
-- Generation 
 - NN Theory
 
 education:
@@ -73,8 +72,5 @@ user_groups:
 - Visitors
 ---
 
-I am a second-year Ph.D student at the  [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/publish/csen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018/index.html). 
+I am a second-year Ph.D student at the  [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/publish/csen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018/index.html). I am advised by Prof.Haitao Zheng and co-advised by Prof.Zhiyuan Liu. 
 
-{{% alert note %}}
-I'm always welcome any coorporations.
-{{% /alert %}}
